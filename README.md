@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Alvis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F87171&center=true&vCenter=true&width=450&lines=Forever+curious%2C+always+learning;Coffee+is+the+best+thing+ever;Exploring+systems%2C+AI+%26+game+dev;Turning+curiosity+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F87171&center=true&vCenter=true&width=450&lines=Forever+curious%2C+always+learning;Coffee+is+the+best+thing+ever;I'm+Batman%21;Turning+curiosity+into+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,12 +19,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlvisChrs&theme=tokyonight" alt="Alvis Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlvisChrs&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlvisChrs&theme=2077" alt="Alvis Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlvisChrs&theme=2077" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvisChrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvisChrs&theme=tokyonight&ring=F87171&fire=F87171&currStreakNum=F87171&sideNums=F87171&currStreakLabel=F87171&sideLabels=F87171&dates=F87171&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
