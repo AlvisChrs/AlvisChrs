@@ -41,7 +41,7 @@
 
 ---
 
-### Vibe & Sound
+### Currently listening to...
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/3380cQNB2RlzGhnjX5KWTO" target="_blank">
