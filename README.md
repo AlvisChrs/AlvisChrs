@@ -38,3 +38,13 @@
     <img alt="Snake Eating Contribution Grid" src="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake.svg?v=red">
   </picture>
 </p>
+
+---
+
+### Vibe & Sound
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/3380cQNB2RlzGhnjX5KWTO" target="_blank">
+    <img src=".github/spotify.svg" alt="Back in Black - Spotify Playlist by Acel" />
+  </a>
+</p>
