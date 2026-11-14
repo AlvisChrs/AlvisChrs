@@ -19,12 +19,12 @@
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlvisChrs&theme=2077" alt="Alvis Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlvisChrs&theme=2077" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvisChrs&theme=tokyonight&ring=F87171&fire=F87171&currStreakNum=F87171&sideNums=F87171&currStreakLabel=F87171&sideLabels=F87171&dates=F87171&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvisChrs&theme=tokyonight&ring=F87171&fire=F87171&currStreakNum=F87171&sideNums=F87171&currStreakLabel=F87171&sideLabels=F87171&dates=F87171&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlvisChrs&theme=2077" alt="Alvis Profile Details" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Eating Contribution Grid" src="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake-dark.svg?v=red">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake.svg?v=red">
+    <img alt="Snake Eating Contribution Grid" src="https://raw.githubusercontent.com/AlvisChrs/AlvisChrs/output/github-contribution-grid-snake.svg?v=red">
   </picture>
 </p>
