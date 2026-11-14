@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Alvis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Forever+curious+%26+always+learning+%F0%9F%9A%80;Coffee+is+honestly+the+best+thing+in+the+world+%E2%98%95;Exploring+systems%2C+AI+%26+game+architecture+%F0%9F%8E%AE;Turning+curiosity+into+code%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F87171&center=true&vCenter=true&width=450&lines=Forever+curious%2C+always+learning;Coffee+is+the+best+thing+ever;Exploring+systems%2C+AI+%26+game+dev;Turning+curiosity+into+code" alt="Typing SVG" />
 </p>
 
 ---
