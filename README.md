@@ -1,26 +1,26 @@
-<h1 align="center">Hi there, I'm Alvis 👋</h1>
+<h1 align="center">Hey, I'm Alvis! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=480&lines=Fullstack+%26+Game+Server+Developer;Building+high-performance+systems;Exploring+TypeScript%2C+Bun+%26+WebAssembly;Coffee%2C+Code+%26+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Forever+curious+%26+always+learning+%F0%9F%9A%80;Coffee+is+honestly+the+best+thing+in+the+world+%E2%98%95;Exploring+systems%2C+AI+%26+game+architecture+%F0%9F%8E%AE;Turning+curiosity+into+code%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,cpp,rust,wasm,html,css,tailwind,react,nextjs,postgres,sqlite,git,github,docker,linux,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,cpp,ts,js,bun,nodejs,php,laravel,lua,wasm,react,nextjs,tailwind,html,css,postgres,mysql,sqlite,docker,linux,bash,caddy,postman,git,github,vscode&perline=14" alt="Skills" />
   </a>
 </p>
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvisChrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alvis GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvisChrs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlvisChrs&theme=tokyonight" alt="Alvis Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlvisChrs&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-### Contribution Activity
+### 🐍 Contribution Activity
 
 <p align="center">
   <picture>
